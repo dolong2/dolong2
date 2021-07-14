@@ -5,6 +5,7 @@
 * Language:
 <img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 * Frame Work: <img src="https://img.shields.io/badge/Express(node.js)-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+* Library: <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
 * Data Base: <img src="https://img.shields.io/badge/my sql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 ### Me
 <a href=https://www.notion.so/fefd8a72c3694f2bacb5f5bef91af748><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
