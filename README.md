@@ -8,4 +8,4 @@
 * Library: <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
 * Data Base: <img src="https://img.shields.io/badge/my sql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 ### Me
-<a href=https://www.notion.so/fefd8a72c3694f2bacb5f5bef91af748><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href=https://github.com/dolong2><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href=https://www.notion.so/fefd8a72c3694f2bacb5f5bef91af748><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href=https://github.com/dolong2><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
