@@ -1,5 +1,5 @@
 ### My status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolong2&layout=compact&hide=html,css&exclude_repo=loginsystem,algorithm_and_datastruct)](https://github.com/anuraghazra/github-readme-stats) ![Jojeayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolong2)
+![Jojeayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolong2) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolong2&layout=compact&hide=html,css&exclude_repo=loginsystem,algorithm_and_datastruct)](https://github.com/anuraghazra/github-readme-stats)
 ### My Stack
 * Language:
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
