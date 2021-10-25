@@ -10,7 +10,7 @@
 
 ### My status
 ![Jojeayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolong2) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolong2&layout=compact&hide=html,css&exclude_repo=loginsystem,algorithm_and_datastruct,Voluntree,spring_practice)](https://github.com/anuraghazra/github-readme-stats)
- <img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wety9070"/>
+<img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wety9070"/>
 
 ### About Me
 <a href=https://www.notion.so/fefd8a72c3694f2bacb5f5bef91af748><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href=https://github.com/dolong2><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
