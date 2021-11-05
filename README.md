@@ -13,4 +13,4 @@
 <img align='center' src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wety9070"/>
 
 ### About Me
-<a href=https://www.notion.so/fefd8a72c3694f2bacb5f5bef91af748><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href=https://github.com/dolong2><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href=https://deadpan-climb-1a7.notion.site/fefd8a72c3694f2bacb5f5bef91af748><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href=https://github.com/dolong2><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
