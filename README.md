@@ -6,8 +6,7 @@
 * Languages:
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 * Frame Works: <img src="https://img.shields.io/badge/Express(node.js)-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
-* Data Bases: <img src="https://img.shields.io/badge/my sql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-* <img src="https://img.shields.io/badge/Mongo DB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+* Data Bases: <img src="https://img.shields.io/badge/my sql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Mongo DB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
 ### Learning Stack
 * <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
