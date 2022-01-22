@@ -12,4 +12,4 @@
 ![Jojeayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolong2) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolong2&layout=compact&hide=html,css&exclude_repo=loginsystem,algorithm_and_datastruct,Voluntree,spring_practice,Spring_basic_practice)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About Me
-<a href=https://deadpan-climb-1a7.notion.site/fefd8a72c3694f2bacb5f5bef91af748><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <a href=https://github.com/dolong2><img src="https://img.shields.io/badge/Git Hub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href=https://deadpan-climb-1a7.notion.site/fefd8a72c3694f2bacb5f5bef91af748><img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
