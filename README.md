@@ -1,7 +1,6 @@
 ### Introduce Myself
-> ☄️ I am a student in GSM.
 >
-> 🌱 I want to be a Backend Developer.
+> 🌱 I am a junior Backend Developer.
 ### My Stack
 * Languages: <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Go_lang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 * Frame Works: <img src="https://img.shields.io/badge/Express-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white"/>
