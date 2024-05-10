@@ -1,6 +1,8 @@
 ### Introduce Myself
 >
 > 🌱 I am a junior Backend Developer.
+>
+> 💻 I'm trying to write code that's easier to read than code that's easy to write.
 ### My Stack
 * Languages: <img src="https://img.shields.io/badge/java script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Go_lang-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/type script-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 * Frame Works: <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/> <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/gin-008ECF?style=flat-square&logo=Gin&logoColor=white"/>
