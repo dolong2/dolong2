@@ -11,7 +11,7 @@
 
 
 ### My status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolong2&layout=compact&hide=html,css&exclude_repo=algorithm_and_datastruct,Voluntree,spring_practice,Spring_basic_practice,Spring_Security_Practice,dcd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolong2&layout=compact&hide=html,css&exclude_repo=Voluntree,spring_practice,Spring_basic_practice,Spring_Security_Practice,dcd)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About Me
 <a href=https://dolong2.notion.site/fefd8a72c3694f2bacb5f5bef91af748><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
